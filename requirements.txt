@@ -1,6 +1,9 @@
 numpy
 scipy
 matplotlib
+pandas
+cloudpickle
+tqdm
 torch
 gymnasium
 scikit-image
