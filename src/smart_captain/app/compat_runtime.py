@@ -34,7 +34,7 @@ class LegacyRuntimeConfig:
 
     model_paths: list[str] = field(default_factory=lambda: [
         #r"models\rl\navigation\sac\task1-v0_SAC_1\task1-v0_SAC_1500000.zip",
-        r"F:\611-Smart-Captain-new-main\src\smart_captain\skills\navigation\logs1\task1-v0_SAC_4\task1-v0_SAC_1500000.zip",
+        r"models\rl\navigation\sac\task1-v0_SAC_2\task1-v0_SAC_2000000.zip",
         "models/rl/obstacle_avoidance/sac/task4-v0_SAC_1/task4-v0_SAC_3200000.zip",
     ])
     model_types: list[str] = field(default_factory=lambda: ["sac", "sac"])

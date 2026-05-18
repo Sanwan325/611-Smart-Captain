@@ -34,7 +34,7 @@ class ModelStore:
             skill="navigation",
             algorithm="sac",
             #relative_path=r"F:\611-Smart-Captain-new-main\models\rl\navigation\sac\task1-v0_SAC_1\task1-v0_SAC_1500000.zip",
-            relative_path =r"F:\611-Smart-Captain-new-main\src\smart_captain\skills\navigation\logs1\task1-v0_SAC_4\task1-v0_SAC_2000000.zip",
+            relative_path =r"F:\611-Smart-Captain-new-main\models\rl\navigation\sac\task1-v0_SAC_2\task1-v0_SAC_2000000.zip",
         ),
         "obstacle_avoidance": ModelSpec(
             skill="obstacle_avoidance",
